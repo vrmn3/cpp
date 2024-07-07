@@ -7,7 +7,7 @@ int main()
    cout<<"enter your variabel \n";
    cin>> i;
    
-   cout<<" enter oneanother \n";
+   cout<<" enter another one \n";
    cin >> j;
    
    M = i * j ;
