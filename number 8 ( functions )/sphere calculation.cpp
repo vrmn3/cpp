@@ -5,7 +5,6 @@ This program is to calculate the Area and volume for a sphere.
 - Note: Pl =3.14
 */
 #include <iostream> 
-#include <iostream>
 using namespace std;
 
 float area ( int  );
